@@ -1,0 +1,25 @@
+.padding{
+    padding: 10px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bold{
+    font-weight: 900;
+}
+
+.text-align{
+    text-align: center;
+}
+
+.margin-btw-sec{
+    margin: 20px;
+}
+
+.txt-wte{
+    color: #fff;
+}
